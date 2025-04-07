@@ -92,6 +92,11 @@ Use a dataset like the **UCI Energy Efficiency** dataset or any real-world home 
 
 `energy-forecasting`, `regression-analysis`, `machine-learning`, `smart-homes`, `energy-efficiency`
 
+## 💡 License
+
+MIT – Feel free to use, modify, and build on this!
+
+
 ---
 
 ## 📂 Categories
